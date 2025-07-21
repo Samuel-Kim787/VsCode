@@ -8,14 +8,6 @@ class HelloWorld
         Console.WriteLine("hello");
     }
 }
-class HelloWorld
-{
-    static void Main()
-    {
-        Console.WriteLine("Hello World");
-    }
-}
-
 
 
 
